@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Exagor
-- 👀 I’m interested in informatics and video games
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computer science, data science and data engineering
+- 🌱 I’m currently specialising in data engineering
 
 <!---
 Exagor/Exagor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
